@@ -1,0 +1,6 @@
+﻿  FileName.c
+C:\Users\34285\source\repos\Project10\Project10\FileName.c(19,5): warning C4013: “gets”未定义；假设外部返回 int
+C:\Users\34285\source\repos\Project10\Project10\FileName.c(98,1): warning C4716: “name”: 必须返回一个值
+C:\Users\34285\source\repos\Project10\Project10\FileName.c(93,1): warning C4716: “school”: 必须返回一个值
+C:\Users\34285\source\repos\Project10\Project10\FileName.c(103,1): warning C4716: “clas”: 必须返回一个值
+  Project10.vcxproj -> C:\Users\34285\source\repos\Project10\x64\Debug\Project10.exe
