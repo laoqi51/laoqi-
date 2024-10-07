@@ -1,4 +1,7 @@
 #include<stdio.h>
 main(){
-    printf("hello,world");
+    int i=1;
+    for(i;i<=10;i++){
+        printf("i");
+    }
 }
